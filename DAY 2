@@ -1,0 +1,12 @@
+var first_name;
+var last_name;
+var age;
+
+write("Enter your First Name: ");
+first_name    = read();
+write("Enter your Last Name: ");
+last_name     = read();
+write("Enter your age :");
+age           = read();
+
+write("Good Morning, "+first_name+" "+last_name+ ", your age is "+age+" years old");
